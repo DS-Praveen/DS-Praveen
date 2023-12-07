@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DS-Praveen
-- 👀 I’m interested in deep leaning 
+- 👀 I’m interested in Data science, AI/ML and deep leaning 
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP and computer vision
 - 📫 You can rech me:
